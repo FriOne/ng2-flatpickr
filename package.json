@@ -2,7 +2,7 @@
   "name": "ng2-flatpickr",
   "version": "1.0.0",
   "description": "Library QuickStart package.json from the documentation, supplemented with testing support",
-  "main": "./ng2-flatpickr.umd.js",
+  "main": "./bundles/ng2-flatpickr.umd.js",
   "module": "./ng2-flatpickr.es5.js",
   "es2015": "./ng2-flatpickr.js",
   "typings": "./ng2-flatpickr.d.ts",
